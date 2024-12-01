@@ -17,7 +17,7 @@ The following visualizations are included:
 ### 1. **Accuracy Change During Training**
 This plot illustrates the change in accuracy of the multimodal model over multiple training epochs, both for the training and validation datasets. It helps track whether the model is improving and generalizing well.
 
-![Accuracy Change During Training](Accuracy_change.jpg)
+![Accuracy Change During Training](Accuracy_Change.jpg)
 
 ### 2. **Loss Change During Training**
 This plot tracks the loss value during the training of the multimodal model. It shows the progression of the loss during training and validation epochs, which helps to identify overfitting or underfitting.
