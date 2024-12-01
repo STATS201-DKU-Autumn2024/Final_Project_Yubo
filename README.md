@@ -1,5 +1,15 @@
 # Detecting AI-Generated Fake Restaurant Reviews Using Multimodal Machine Learning
 
+## Table of Contents
+- [Project Overview](#project-overview)
+- [Code Execution](#code-execution)
+- [Dependencies](#dependencies)
+- [Datasets and Preprocessing](#datasets-and-preprocessing)
+- [Example Usage](#example-usage)
+- [Acknowledgments](#acknowledgments)
+- [Intellectual and Professional Growth](#statement-of-intellectual-and-professional-growth)
+
+
 ## Authors
 - **Yubo Liu**: Project Lead and Developer
 
