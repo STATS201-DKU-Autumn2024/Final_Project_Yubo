@@ -6,6 +6,9 @@ The datasets used in this project focus on detecting AI-generated fake restauran
 
 The datasets were sourced from the [AiGen-FoodReview dataset](https://github.com/iamalegambetti/aigen-foodreview), a publicly available multimodal dataset. The dataset consists of 20,144 review-image pairs, with labels indicating whether a review is authentic (0) or machine-generated (1). This dataset is hosted on GitHub and is available for use in research on fake review detection.
 
+For the images, you can download them from the following link:  
+[Download Images](https://drive.google.com/drive/folders/1z-lXVUVl5EdNPnAXMq2KPWfA4_BmZCp3?usp=sharing)
+
 ## Data Dictionary
 
 Below is the structured data dictionary for the datasets used in this project:
