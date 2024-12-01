@@ -35,4 +35,11 @@ To run the code and reproduce the results, follow these steps:
 
 ### 1. Download all the ipynb files and dataset and unzip the image.zip
 
-### 2. Run the ipynb files in a python environment, refer to requirements.txt
+### 2. Run the ipynb files in a python environment, refer to the following for dependency:
+pandas==1.5.3
+scikit-learn==1.2.1
+numpy==1.23.5
+tensorflow==2.11.0
+matplotlib==3.6.3
+python-dotenv==1.0.0
+
