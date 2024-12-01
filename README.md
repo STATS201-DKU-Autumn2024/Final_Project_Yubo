@@ -26,7 +26,6 @@ This project was submitted for **STATS201 Machine Learning for Social Science**,
 This project has significantly contributed to my intellectual and professional growth. Throughout the course, I have gained a deeper understanding of machine learning techniques, particularly in the areas of natural language processing (NLP) and computer vision. This project also enhanced my ability to integrate multimodal data, combining text and images, to solve real-world problems. Moreover, working on this project has refined my skills in model development, evaluation, and data preprocessing, preparing me for future challenges in the field of data science and machine learning.
 
 ## Embedded Media
-- **[Demo Video](link_to_demo_video)**
 - **[Project Poster](link_to_poster)**
 
 ## Code Execution
