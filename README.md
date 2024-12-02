@@ -25,6 +25,7 @@ This project has significantly contributed to my intellectual and professional g
 
 ## Embedded Media
 - **[Project Poster](https://www.canva.com/design/DAGYC2A2ZRQ/Vq840u5mFhpvdamGhum6tQ/edit?utm_content=DAGYC2A2ZRQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)**
+- **[Demo Video](https://urldefense.com/v3/__https://duke.zoom.us/rec/share/jgoqy90pu9TP9viixDMKCY_psits56IzzDReRE88ExpG4YHZgsjvwbVavtNf90c_.t9C96CKzoMukt3gI__;!!OToaGQ!qHbYvC4_etXfp9V5UC1qfdPX-gFg7qUOGHZlVdKNp_jUsqVTPKXjtTqer1mp_Ln-mW5hYNrGteFIUznoa6E$)**
 
 ## Code Execution
 
