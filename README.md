@@ -1,5 +1,6 @@
 # Detecting AI-Generated Fake Restaurant Reviews Using Multimodal Machine Learning
-![Project Poster](Academic Research Poster in Blue and White Contemporary Style.png)
+![Project Poster](./Academic%20Research%20Poster%20in%20Blue%20and%20White%20Contemporary%20Style.png)
+
 
 
 ## Table of Contents
